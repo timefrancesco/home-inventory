@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FrInventory/MainWindow.cs" ctype="Workbench">
+    <Files>
+      <File FileName="FrInventory/Main.cs" Line="7" Column="3" />
+      <File FileName="FrInventory/MainWindow.cs" Line="384" Column="49" />
+      <File FileName="FrInventory/SqlOperations.cs" Line="582" Column="3" />
+      <File FileName="FrInventory/DataAccess.cs" Line="25" Column="1" />
+      <File FileName="FrInventory/Item.cs" Line="18" Column="14" />
+      <File FileName="FrInventory/AddItemForm.cs" Line="8" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/xeo/Projects/FrInventory/FrInventory/SqlOperations.cs" line="117" />
+      <Breakpoint file="/home/xeo/Projects/FrInventory/FrInventory/SqlOperations.cs" line="385" />
+      <Breakpoint file="/home/xeo/Projects/FrInventory/FrInventory/SqlOperations.cs" line="540" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore">
+    <Watch file="FrInventory/SqlOperations.cs" line="315" offsetX="326" offsetY="5338" expression="ex" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
